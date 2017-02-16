@@ -134,3 +134,11 @@ C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Antlr3.Runtime.pdb
 C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Release\LoginToka.csprojResolveAssemblyReference.cache
 C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Release\LoginToka.dll
 C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Release\LoginToka.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\LoginToka.XmlSerializers.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Release\LoginToka.XmlSerializers.dll

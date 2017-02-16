@@ -1,0 +1,63 @@
+﻿@model LoginToka.Models.User
+
+@{
+    ViewBag.Title = "Usuarios";
+}
+
+<h2></h2>
+<div class="panel panel-default">
+    <div class="panel panel-default">
+        <!-- Default panel contents -->
+        <div class="panel-heading">@ViewBag.Title</div>
+        <!-- Table -->
+        <table id="dtUsuarios" class="table table-bordered table-hover order-column" width="100%"></table>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        var dtUsuarios = $('#dtUsuarios').dataTable({
+            "processing": true,
+            //"serverSide": false,
+            "stateSave": true,
+            "searching": false,
+            "paging": false,
+            "info": false,
+            "ajax":{
+                "url": "@string.Format("{0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))TokaServices/GetUsers",
+                "type": "GET"
+            },
+            "columns": [
+                { "title": "Id", "data": "id"},
+                { "title": "Usuario", "data": "usuario" },
+                { "title": "Ciudad", "data": "ciudad" },
+                { "title": "Puesto", "data": "puesto" },
+                { "title": "Privilegio", "data": "privilegio", "visible": false }
+            ],
+            "order": [[0, "asc"]],
+            "language": {
+                "url": '//cdn.datatables.net/plug-ins/1.10.13/i18n/Spanish.json'
+            },
+            "dom": 'Bt',
+            buttons: [                
+                {
+                    extend: 'excel',
+                    text: 'E<em>x</em>portar a Excel',
+                    className: "btn btn-success pull-right",
+                    key: {
+                        key: 'e',
+                        altkey: true
+                    }
+                }
+            ],
+            "drawCallback": function () {
+                $(".dt-buttons").addClass("pull-right");
+                $(".dt-buttons .dt-button").removeClass("dt-button");
+            }
+        });        
+
+        $(function () {
+            
+        });
+    </script>
+}

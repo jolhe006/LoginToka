@@ -6,6 +6,7 @@
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    <link href="http://www.toka.com.mx/public/img/ico/icon.ico" rel="shortcut icon" type="image/x-icon">
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -22,24 +23,53 @@
                     <img alt="Widget View" src="http://www.toka.com.mx/public/img/toka-footer.svg">
                 </a>
             </div>
-           @if (Session["UserName"] != null)
+           @if (Session["id"] != null)
            {
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Tarjetas", "Index", "Home", new { area = "" }, null)</li>
-                    <li>@Html.ActionLink("Clientes", "Index", "Home", new { area = "" }, null)</li>
-                    <li class = "active">@Html.ActionLink("Usuarios", "Index", "Home", new { area = "" }, null)</li>
+                    @if (Session["privilegio"].ToString() != "3")
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Tarjetas" ? "active" : "")">@Html.ActionLink("Tarjetas", "Tarjetas", "Home", new { area = "" }, null)</li>
+                    }
+                    @if (Session["privilegio"].ToString() != "2")
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Clientes" ? "active" : "")">@Html.ActionLink("Clientes", "Clientes", "Home", new { area = "" }, null)</li>
+                    }
+                    @if (Session["privilegio"].ToString() == "1")
+                    {
+                        <li class="@(ViewContext.RouteData.Values["Action"].ToString() == "Usuarios" ? "active" : "")">@Html.ActionLink("Usuarios", "Usuarios", "Home", new { area = "" }, null)</li>
+                    }
                 </ul>
+
                 <ul class="nav navbar-nav navbar-right">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        <span class="glyphicon glyphicon-user"></span>
-                        <strong>@Session["UserName"]</strong>
-                        <span class="glyphicon glyphicon-chevron-down"></span>
-                    </a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="glyphicon glyphicon-user"></i>
+                            <strong>@Session["usuario"]</strong>
+
+                            <i class="glyphicon glyphicon-menu-right"></i>
+
+                            <i class="glyphicon glyphicon-briefcase"></i>
+                            <span>@Session["puesto"]</span>
+
+                            <i class="glyphicon glyphicon-menu-right"></i>
+
+                            <i class="glyphicon glyphicon-map-marker"></i>
+                            <span>@Session["ciudad"]</span>
+
+                            <i class="glyphicon glyphicon-chevron-down"></i>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="navbar-brand" href="@Url.Action("Logout", "Home")">
+                                    <i class="glyphicon glyphicon-log-out"></i>
+                                    <span>Cerrar Sesion</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>                    
             </div>
-
-            
            }
         </div>
     </div>
@@ -47,12 +77,13 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - </p>
+            <p>&copy; @DateTime.Now.Year - <a href="https://github.com/jolhe006/iscjorgerojas_web" target="github" class="btn btn-default pull-right">Ver codigo fuente en GitHub</a></p>
         </footer>
     </div>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/datatables")
     @RenderSection("scripts", required: false)
 </body>
 </html>
