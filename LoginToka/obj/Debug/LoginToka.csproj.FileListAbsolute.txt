@@ -1,0 +1,142 @@
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\ApplicationInsights.config
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\LoginToka.dll.config
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\LoginToka.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\LoginToka.pdb
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Antlr3.Runtime.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Web.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.MediaTypeFormatter.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Owin.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Net.Http.Formatting.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Helpers.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.Owin.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.WebHost.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Mvc.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Optimization.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Razor.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\WebGrease.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Web.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.Owin.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.MediaTypeFormatter.pdb
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Net.Http.Formatting.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Helpers.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Http.WebHost.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Mvc.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Optimization.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.Razor.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.dll
+C:\Users\Jorge Rojas\Documents\Visual Studio 2015\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\ApplicationInsights.config
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\LoginToka.dll.config
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\LoginToka.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\LoginToka.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Antlr3.Runtime.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Web.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.MediaTypeFormatter.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Owin.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Net.Http.Formatting.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Helpers.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.Owin.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.WebHost.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Mvc.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Optimization.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Razor.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\WebGrease.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.Web.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.Owin.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Newtonsoft.Json.MediaTypeFormatter.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Net.Http.Formatting.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Helpers.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Http.WebHost.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Mvc.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Optimization.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.Razor.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\Antlr3.Runtime.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\obj\Debug\LoginToka.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.dll
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Contracts.xml
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.pdb
+C:\Users\Jorge Rojas\Projects\LoginToka\LoginToka\bin\CubedElement.DataTable.Model.xml

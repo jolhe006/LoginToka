@@ -1,0 +1,14 @@
+﻿@ {
+    ViewBag.Title = "Index";
+}
+
+< fieldset >
+    < legend > Index < /legend>
+
+@if (Session["UserName"] != null)
+{ 
+    <text>
+        Welcome @Session["UserName"].ToString() 
+    </text>
+} 
+< /fieldset> 
