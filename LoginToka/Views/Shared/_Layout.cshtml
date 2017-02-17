@@ -11,6 +11,8 @@
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
+        @if (Session["id"] != null)
+        {
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
@@ -23,8 +25,7 @@
                     <img alt="Widget View" src="http://www.toka.com.mx/public/img/toka-footer.svg">
                 </a>
             </div>
-           @if (Session["id"] != null)
-           {
+           
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     @if (Session["privilegio"].ToString() != "3")
@@ -70,7 +71,7 @@
                     </li>
                 </ul>                    
             </div>
-           }
+        }
         </div>
     </div>
     <div class="container body-content">
